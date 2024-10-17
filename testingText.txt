@@ -1,2 +1,2 @@
-This page is only for testing the clone project using git
+This page is only for testing the clone project using git hub
 
